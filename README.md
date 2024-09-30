@@ -1,13 +1,13 @@
 # How to run
 
-To run this project, clone this repository or use this [link](https://github.com/Sagnik1269/ai-bot-website.git) to clone the repository.
+To run this project, clone this repository using this [link](https://github.com/Sagnik1269/ai-bot-website.git).
 
 
 ## Change to frontend branch
 
 To change to a specific branch (frontend in this case), run the following command
 
-```git git checkout frontend```
+``` git checkout frontend```
 
 ## Set up the project
 
@@ -16,11 +16,6 @@ Once the repository is cloned, open any IDE, then open the terminal and run the 
 ``` npm i ```
 
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ## Host the website
 
 To host the website, run 
@@ -28,6 +23,8 @@ To host the website, run
 ``` npm start ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
 
 <!-- ### `npm run build`
 
