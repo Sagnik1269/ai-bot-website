@@ -1,25 +1,35 @@
-# Getting Started with Create React App
+# How to run
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run this project, clone this repository or use this [link](https://github.com/Sagnik1269/ai-bot-website.git) to clone the repository.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Change to frontend branch
 
-### `npm start`
+To change to a specific branch (frontend in this case), run the following command
 
-Runs the app in the development mode.\
+```git git checkout frontend```
+
+## Set up the project
+
+Once the repository is cloned, open any IDE, then open the terminal and run the following command to install all packages
+
+``` npm i ```
+
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+## Host the website
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To host the website, run 
 
-### `npm run build`
+``` npm start ```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+<!-- ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -67,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
